@@ -13,7 +13,7 @@ Hovering over matched characters will show a title including the pinyin,frequenc
 
 For most of the double/compound characters, I haven't added a 'short' translation for most of those yet. Plan to update these later as well as additional possible character entries including 1 to 3 or more compound characters.
 
-I created this as I am going through mandarin flashcards and learning the characters and could not find any online resources that did a nice job of breaking down larger sentences and texts into their word components. The dictionary that makes up this page could be changed to other language translations also and loaded dynamically as a json file from various better-curated sources.
+I created this as I am going through mandarin flashcards and learning the characters and could not find any online resources that did a nice job of breaking down larger sentences and texts into their word components. The dictionary that makes up this page could be changed to other language translations also and loaded dynamically as a json file from various better-curated sources. Others are welcome to adapt this and let me know(issues/feedback) if you found this html/javascript helpful in your language study or suggested changes/options.
 
 > ![image](https://drive.google.com/uc?export=view&id=1DQunnnymBCthqC1A53PEAuwfcPecp4Sf "Demo translation")
 > 
