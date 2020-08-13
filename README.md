@@ -7,7 +7,7 @@ Characters are mostly ordered by usage frequency with color coding
  * green - single character within first 200 characters
  * blue - single character > 200 and < 1000 characters
  * red - double/compound character
- * orange - unmatched character orange
+ * orange - unmatched character
 
 Hovering over matched characters will show a title including the pinyin,frequency#,further translations. A summary sorted table lists unmatched characters by frequency.
 
