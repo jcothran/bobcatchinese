@@ -9,7 +9,7 @@ Characters are mostly ordered by usage frequency with color coding
  * red - double/compound character
  * orange - unmatched character orange
 
-Hovering over matched characters will show a title including the pinyin,frequency#,further translations.
+Hovering over matched characters will show a title including the pinyin,frequency#,further translations. A summary sorted table lists unmatched characters by frequency.
 
 For most of the double/compound characters, I haven't added a 'short' translation for most of those yet. Plan to update these later as well as additional possible character entries including 1 to 3 or more compound characters.
 
